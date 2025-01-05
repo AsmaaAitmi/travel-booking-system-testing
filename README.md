@@ -1,2 +1,1 @@
-# travel-booking-system-testing
-Manual and automated testing project for a travel booking system, showcasing my learning journey..
+"# Travel Booking System Testing\nThis project demonstrates manual and automated testing for a travel booking system. Includes functional testing, test case documentation, and automation scripts." 
