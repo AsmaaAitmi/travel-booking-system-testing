@@ -23,5 +23,5 @@
 | **Test Scenario** | Verify flight search functionality |
 | **Preconditions** | User is logged in              |
 | **Test Steps**    | 1. Navigate to the flight search page. <br> 2. Enter origin, destination, and travel dates. <br> 3. Click "Search". |
-| **Test Data**     | Origin: New York <br> Destination: London <br> Travel Date: 2025-02-15 |
+| **Test Data**     | Origin: Frankfur <br> Destination: London <br> Travel Date: 2025-08-15 |
 | **Expected Result** | List of available flights is displayed. |
