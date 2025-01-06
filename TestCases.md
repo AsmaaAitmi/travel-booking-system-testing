@@ -1,4 +1,4 @@
-"# Test Cases\nComprehensive list of test cases for the travel booking system." 
+- **CSV File**: Test cases were also written in a CSV file for simplicity and clarity.
 
  Test Cases for Travel Booking System
 
